@@ -1,0 +1,10 @@
+{
+    "name": "my-project",
+    "description": "A simple PHP project",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4",
+        "monolog/monolog": "^2.0"
+    }
+}
